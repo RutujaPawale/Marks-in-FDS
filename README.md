@@ -20,3 +20,17 @@ Data Collection: It prompts the user to enter the number of students and then re
 •	Find Highest and Lowest Scores: It identifies the highest and lowest scores among the students who were present for the test, providing insights into the performance range of the class.
 •	Count Absent Students: It counts how many students were absent by tallying the 'A' entries, helping in understanding attendance patterns.
 •	Mark with Highest Frequency: Using the Counter from the collections module, the program determines which mark was most frequently recorded, highlighting the most common performance level.
+
+
+Data Collection: It prompts the user to enter the number of students and then records each student’s mark or an indication of absence (entered as 'A'). .
+•	Compute Average Score: The program calculates the average score of the class by summing all the valid marks and dividing by the total number of students who were present.
+•	Find Highest and Lowest Scores: It identifies the highest and lowest scores among the students who were present for the test, providing insights into the performance range of the class.
+•	Count Absent Students: It counts how many students were absent by tallying the 'A' entries, helping in understanding attendance patterns.
+•	Mark with Highest Frequency: Using the Counter from the collections module, the program determines which mark was most frequently recorded, highlighting the most common performance level.
+
+
+4) Software & Hardware requirerments :
+Software Requirements:
+•	Python Interpreter: Python 3.6 or later.
+•	IDE/Text Editor: PyCharm, Visual Studio Code, or any text editor.
+•	Libraries: Standard Python libraries (no additional installation needed).
