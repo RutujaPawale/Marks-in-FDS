@@ -34,3 +34,11 @@ Software Requirements:
 •	Python Interpreter: Python 3.6 or later.
 •	IDE/Text Editor: PyCharm, Visual Studio Code, or any text editor.
 •	Libraries: Standard Python libraries (no additional installation needed).
+
+Hardware Requirements:
+•	Processor: Modern CPU (e.g., Intel Core i3 or AMD Ryzen 3).
+•	Memory (RAM): Minimum 2 GB, recommended 4 GB.
+•	Storage: Minimum 10 MB, recommended 100 MB for additional files.
+•	Display: Standard resolution (1366x768 or higher).
+•	Internet Connection: Optional, for downloading Python and IDE.
+
