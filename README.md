@@ -108,3 +108,22 @@ Algorithm:
         Mark with highest frequency
 9.	End
 	
+Concluion :
+The Python program efficiently tracks and analyzes student marks for "Fundamental of Data Structure." It computes the average score, highest and lowest marks, counts absentees, and 
+•	Else: Set both to None
+7.	Find Mark with Highest Frequency:
+•	If marks is not empty: Use Counter to find the most frequent mark
+•	Else: Set most frequent mark to None
+8.	Display Results:
+•	Absent count
+•	Average score
+•	Highest score
+•	Lowest score
+•	Most frequent mark
+9.	End
+
+
+
+
+7) Concluion :
+The Python program efficiently tracks and analyzes student marks for "Fundamental of Data Structure." It computes the average score, highest and lowest marks, counts absentees, and identifies the most frequent mark, providing a clear overview of class performance and attendance for effective educational management.
