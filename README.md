@@ -48,3 +48,10 @@ Data Handling in Python:•	Lists: Used to store multiple items in a single vari
 •	Standard Libraries: Python’s built-in libraries (like collections.Counter) help manage and analyze data efficiently.
 •	Lists: Used to store multiple items in a single variable. For example, storing student marks.
 •	Standard Libraries: Python’s built-in libraries (like collections.Counter) help manage and analyze data efficiently.
+
+Defining a Function
+You define a function using the def keyword, followed by the function name and parentheses.
+Python Functions is a block of statements that return the specific task. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can do the function calls to reuse code contained in it over and over again.
+Some Benefits of Using Functions
+•	Increase Code Readability 
+•	Increase Code Reusability
