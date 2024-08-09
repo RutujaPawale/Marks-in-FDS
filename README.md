@@ -72,4 +72,39 @@ def fun():
 # Driver code to call a function
 fun()
 
-
+Algorithm:
+1.	Start
+2.	Input Number of Students (N)
+3.	Initialize marks list and absent_count to 0
+4.	For each student from 1 to N:
+        Input student mark or absence ('A')
+        If input is 'A':
+            Increment absent_count by 1
+        Else:
+            Try to convert input to a float
+            If successful, append mark to marks list
+            If unsuccessful, print an error message
+5.	Compute Average Score:
+       If marks list is not empty:
+           Calculate average as sum of marks divided by the length of marks
+       Else:
+           Set average to 0
+6.	Find Highest and Lowest Scores:
+        If marks list is not empty:
+            Determine highest score using max()
+            Determine lowest score using min()
+        Else:
+            Set highest and lowest to None
+7.	Find Mark with Highest Frequency:
+        If marks list is not empty:
+              Use Counter from collections to find the most common mark
+         Else:
+              Set most frequent mark to None
+8.	Display Results:
+        Number of students absent
+        Average score
+        Highest score
+        Lowest score
+        Mark with highest frequency
+9.	End
+	
