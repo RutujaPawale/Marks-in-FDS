@@ -42,3 +42,9 @@ Hardware Requirements:
 •	Display: Standard resolution (1366x768 or higher).
 •	Internet Connection: Optional, for downloading Python and IDE.
 
+Theory:
+Python Programming: Python is a high-level, interpreted programming language known for its readability and simplicity. It supports various programming paradigms including procedural, object-oriented, and functional programming.
+Data Handling in Python:•	Lists: Used to store multiple items in a single variable. For example, storing student marks.
+•	Standard Libraries: Python’s built-in libraries (like collections.Counter) help manage and analyze data efficiently.
+•	Lists: Used to store multiple items in a single variable. For example, storing student marks.
+•	Standard Libraries: Python’s built-in libraries (like collections.Counter) help manage and analyze data efficiently.
