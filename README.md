@@ -61,5 +61,15 @@ Types of Functions in Python are-
 •	Built-in library function: These are Standard functions in Python that are available to use.
 •	User-defined function: We can create our own functions based on our requirements.
 
-Creating a Function in Python
+Creating a Function in Python:
 We can define a function in Python, using the def keyword. We can add any type of functionalities and properties to it as we require. By the following example, we can understand how to write a function in Python. In this way we can create Python function definition by using def keyword.
+
+Calling a Function in Python:
+After creating a function in Python we can call it by using the name of the functions Python followed by parenthesis containing parameters of that particular function. Below is the example for calling def function Python.
+# A simple Python function
+def fun():
+    print("Welcome to GFG")
+# Driver code to call a function
+fun()
+
+
