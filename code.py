@@ -56,3 +56,11 @@ def repeat():
         print("Thank you!!")
     else:
         print("!!Invalid Input!!")
+
+marksInFDS=[]
+print("\n\n")
+num=int(input("Enter total number of students: "))
+print("Enter '0' for absent students")
+for i in range(num):
+    marks=int(input("Enter marks of student "+str(i+1)+" : "))
+    marksInFDS.append(marks)
