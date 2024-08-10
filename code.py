@@ -12,3 +12,12 @@ def Maximum():
         if(marksInFDS[i] > max):
             max = marksInFDS[i]
     print("The highest score is:", max)
+
+def Minimum():
+    i = 0
+    min = marksInFDS[i]
+    for i in range(num):
+        if(marksInFDS[i] < min):
+            min = marksInFDS[i]
+    print("The lowest score is:", min)
+    repeat()
