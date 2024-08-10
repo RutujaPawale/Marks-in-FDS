@@ -29,3 +29,14 @@ def absentcount():
             count += 1
     print("Number of Students absent in the test : ", count)
     repeat()
+
+def maxFrequency():
+    freq = 0
+    res = marksInFDS[0]
+    for i in marksInFDS:
+        mfreq = marksInFDS.count(i)
+    if mfreq > freq:
+        freq = mfreq
+        res = i
+    print ("Most frequent number is : " + str(res))
+    repeat()
