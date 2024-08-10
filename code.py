@@ -21,3 +21,11 @@ def Minimum():
             min = marksInFDS[i]
     print("The lowest score is:", min)
     repeat()
+
+def absentcount():
+    count = 0
+    for i in range(num):
+        if marksInFDS[i] == 0:
+            count += 1
+    print("Number of Students absent in the test : ", count)
+    repeat()
