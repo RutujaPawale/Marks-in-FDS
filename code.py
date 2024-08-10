@@ -40,3 +40,19 @@ def maxFrequency():
         res = i
     print ("Most frequent number is : " + str(res))
     repeat()
+
+def repeat():
+    ch=int(input("\nEnter your Choice: "))
+    if ch == 1:
+        average()
+    elif ch == 2:
+        Maximum()
+        Minimum()
+    elif ch == 3:
+        absentcount()
+    elif ch == 4:
+        maxFrequency()
+    elif ch == 5:
+        print("Thank you!!")
+    else:
+        print("!!Invalid Input!!")
