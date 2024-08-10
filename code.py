@@ -58,9 +58,17 @@ def repeat():
         print("!!Invalid Input!!")
 
 marksInFDS=[]
-print("\n\n")
 num=int(input("Enter total number of students: "))
 print("Enter '0' for absent students")
 for i in range(num):
     marks=int(input("Enter marks of student "+str(i+1)+" : "))
     marksInFDS.append(marks)
+
+print(20*"-","\n \tMENU\n",20*"-")
+print("1. Average Marks of the Class")
+print("2. Highest and Lowest Marks in the Class")
+print("3. Number of Students absent for the test")
+print("4. Marks with Highest Frequency")
+print("5. Exit")
+
+repeat()
